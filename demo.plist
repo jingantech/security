@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://7xth7v.com1.z0.glb.clouddn.com/JIRADemo2.ipa</string>
+					<string>https://10.70.68.47/mobile/security2.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>/mobile/icon.png</string>
+					<string>https://10.70.68.47/mobile/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>/mobile/icon.png</string>
+					<string>https://10.70.68.47/mobile/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jingantech.Demo</string>
+				<string>com.hna.mobile.iphone.securitytoken</string>
 				<key>bundle-version</key>
 				<string>1</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>JIRADemo</string>
+				<string>sacurity</string>
 			</dict>
 		</dict>
 	</array>
