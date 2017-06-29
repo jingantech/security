@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://web-sso.demo.jinganiam.com:10038/mobile/zhongshiyou.png</string>
+					<string>mobile/zhongshiyou.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://web-sso.demo.jinganiam.com:10038/mobile/zhongshiyou.png</string>
+					<string>mobile/zhongshiyou.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
