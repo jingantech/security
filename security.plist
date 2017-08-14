@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://web-sso.demo.jinganiam.com:10038/mobile/zhongshiyou.ipa</string>
+					<string>http://web-sso.demo.jinganiam.com:10038/mobile/ems.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>mobile/zhongshiyou.png</string>
+					<string>http://web-sso.demo.jinganiam.com:10038/mobile/ems.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>mobile/zhongshiyou.png</string>
+					<string>http://web-sso.demo.jinganiam.com:10038/mobile/ems.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>安全令</string>
+				<string>E令</string>
 			</dict>
 		</dict>
 	</array>
